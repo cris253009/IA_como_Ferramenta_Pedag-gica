@@ -52,18 +52,28 @@ A IA atua como **mediadora e apoiadora**, enquanto o professor mantém o papel c
 ##  Estrutura do Repositório
 
 ```
-IA_como_Ferramenta_Pedagógica/
+prompts/
 │── README.md
 │
-└── prompts/
-    │── plano_aula_base.md
-    │── personalizacao_inclusao.md
-    │── avaliacao_ia.md
-    │── psicopedagogia.md
-    │── reflexao_etica.md
-    │── reutilizacao_versionamento.md
-```
+├── 01_planejamento/
+│   └── plano_aula_base.md
+│
+├── 02_personalizacao/
+│   └── personalizacao_inclusao.md
+│
+├── 03_avaliacao/
+│   └── avaliacao_formativa_ia.md
+│
+├── 04_contextos_especificos/
+│   └── psicopedagogia.md
+│
+├── 05_reflexao_etica/
+│   └── reflexao_uso_ia.md
+│
+└── 06_reutilizacao/
+    └── reutilizacao_versionamento.md
 
+```
 ---
 
 ##  Descrição dos Prompts
